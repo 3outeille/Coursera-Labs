@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="./img/logo.png">
+</div>
 
 # Introduction
 
@@ -10,14 +12,14 @@ and [Deep Learning Specialization](https://www.coursera.org/specializations/deep
 
 ## Machine Learning
 
-- [Linear Regression](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%201%20-%20Linear%20Regression)
-- [Logistic Regression](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%202%20-%20Logistic%20Regression)
-- [Multi-class Classification and Neural Networks](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%203%20-%20Multi-class%20Classification%20and%20Neural%20Networks)
-- [Neural Networks Learning](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%204%20-%20Neural%20Networks%20Learning)
-- [Regularized Linear Regression and Bias v.s. Variance](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%205%20-%20Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance)
-- [Support Vector Machines](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%206%20-%20Support%20Vector%20Machines)
-- [K-means Clustering and Principal Component Analysis](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%207%20-%20K-means%20Clustering%20and%20Principal%20Component%20Analysis)
-- [Anomaly Detection and Recommender Systems](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%208%20-%20Anomaly%20Detection%20and%20Recommender%20Systems)
+- Week 2 - LA 1 - [Linear Regression](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%201%20-%20Linear%20Regression)
+- Week 3 - LA 2 - [Logistic Regression](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%202%20-%20Logistic%20Regression)
+- Week 4 - LA 3 - [Multi-class Classification and Neural Networks](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%203%20-%20Multi-class%20Classification%20and%20Neural%20Networks)
+- Week 5 - LA 4 - [Neural Networks Learning](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%204%20-%20Neural%20Networks%20Learning)
+- Week 6 - LA 5 - [Regularized Linear Regression and Bias v.s. Variance](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%205%20-%20Regularized%20Linear%20Regression%20and%20Bias%20v.s.%20Variance)
+- Week 7 - LA 6 - [Support Vector Machines](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%206%20-%20Support%20Vector%20Machines)
+- Week 8 - LA 7 - [K-means Clustering and Principal Component Analysis](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%207%20-%20K-means%20Clustering%20and%20Principal%20Component%20Analysis)
+- Week 9 - LA 8 - [Anomaly Detection and Recommender Systems](https://github.com/3outeille/Coursera-Labs/tree/master/Machine%20Learning/Lab%20Assignment%208%20-%20Anomaly%20Detection%20and%20Recommender%20Systems)
 
 ## Deep Learning Specialization
 
@@ -25,7 +27,7 @@ and [Deep Learning Specialization](https://www.coursera.org/specializations/deep
 
     - Week 2 - LA 1 - [Logistic Regression with a Neural Network mindset](https://github.com/3outeille/Coursera-Labs/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
     - Week 3 - LA 2 - [Planar data classification with one hidden layer](https://github.com/3outeille/Coursera-Labs/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
-    - Week 4 - LA 3 - [Building your Deep Neural Network: Step by Step¶](https://github.com/3outeille/Coursera-Labs/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+    - Week 4 - LA 3 - [Building your Deep Neural Network: Step by Step](https://github.com/3outeille/Coursera-Labs/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
     - Week 4 - LA 4 - [Deep Neural Network for Image Classification: Application](https://github.com/3outeille/Coursera-Labs/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep_Neural_Network_Application_v8.ipynb)
 
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
