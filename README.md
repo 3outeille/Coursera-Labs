@@ -9,11 +9,11 @@ and [Deep Learning Specialization](https://www.coursera.org/specializations/deep
 
 Certications:
 
-[Machine Learning](https://coursera.org/share/c7e6e70397039d6933647e101fa00006)
-[Structuring Machine Learning Projects](https://coursera.org/share/c5c233a7d40d11b8f18eca58e700fa4c)
-[Neural Neural and Deep Learning](https://coursera.org/share/c2a662c054b03f53457e38fa8a5fbafe)
-[Improving Deep Neural Networks: Hyperparameter tuning, Recognition and Optimization](https://coursera.org/share/e02015f101a6263db0b675c7bd003bbb)
-[Convolutional Neural Networks](https://coursera.org/share/00b07dca9b8c6c1e80453cc9ad680cc9)
+- [Machine Learning](https://coursera.org/share/c7e6e70397039d6933647e101fa00006)
+- [Structuring Machine Learning Projects](https://coursera.org/share/c5c233a7d40d11b8f18eca58e700fa4c)
+- [Neural Neural and Deep Learning](https://coursera.org/share/c2a662c054b03f53457e38fa8a5fbafe)
+- [Improving Deep Neural Networks: Hyperparameter tuning, Recognition and Optimization](https://coursera.org/share/e02015f101a6263db0b675c7bd003bbb)
+- [Convolutional Neural Networks](https://coursera.org/share/00b07dca9b8c6c1e80453cc9ad680cc9)
 
 # Lab Assignments
 
