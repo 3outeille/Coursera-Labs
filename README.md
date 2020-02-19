@@ -52,5 +52,5 @@ Certications:
     - Week 2 - LA 3 - [Keras - Tutorial](https://github.com/3outeille/Coursera-Labs/blob/master/Convolutional%20Neural%20Networks/Keras_Tutorial_v2a.ipynb)
     - Week 2 - LA 4 - [Residual Networks](https://github.com/3outeille/Coursera-Labs/blob/master/Convolutional%20Neural%20Networks/Residual_Networks_v2a.ipynb)
     - Week 3 - LA 5 - [Car detection with YOLO](https://github.com/3outeille/Coursera-Labs/blob/master/Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection_v3a.ipynb)
-    - Week 4 - LA 6 - [Art generation with Neural Style Transfer]()
-    - Week 4 - LA 7 - [Face Recognition]()
+    - Week 4 - LA 6 - [Art generation with Neural Style Transfer](https://github.com/3outeille/Coursera-Labs/blob/master/Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+    - Week 4 - LA 7 - [Face Recognition](https://github.com/3outeille/Coursera-Labs/blob/master/Convolutional%20Neural%20Networks/Face_Recognition_v3a.ipynb)
