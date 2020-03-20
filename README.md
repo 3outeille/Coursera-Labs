@@ -15,6 +15,10 @@ Certications:
 - [Improving Deep Neural Networks: Hyperparameter tuning, Recognition and Optimization](https://www.coursera.org/account/accomplishments/verify/W7G4XK5GR74U)
 - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/9KG8A23QYPLH)
 
+# Personal Notes
+
+You can find my personal notes on my [website](https://ferdinandmom.engineer/machine-learning/)
+
 # Lab Assignments
 
 ## Machine Learning
