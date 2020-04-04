@@ -11,7 +11,7 @@ Certications:
 
 - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/QGJ4DPCP9XW2)
 - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/F7FJG6Z8BF5F)
-- [Neural Neural and Deep Learning](https://www.coursera.org/account/accomplishments/verify/682DNPEDUL7J)
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/682DNPEDUL7J)
 - [Improving Deep Neural Networks: Hyperparameter tuning, Recognition and Optimization](https://www.coursera.org/account/accomplishments/verify/W7G4XK5GR74U)
 - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/9KG8A23QYPLH)
 
