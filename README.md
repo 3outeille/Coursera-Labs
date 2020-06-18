@@ -15,6 +15,8 @@ Certications:
 - [Improving Deep Neural Networks: Hyperparameter tuning, Recognition and Optimization](https://www.coursera.org/account/accomplishments/verify/W7G4XK5GR74U)
 - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/9KG8A23QYPLH)
 
+If there is any problems regarding jupyter notebook loading on github, copy paste the link to [jupyter notebook nbviewer](https://nbviewer.jupyter.org/).
+
 # Personal Notes
 
 You can find my personal notes on my [website](https://ferdinandmom.engineer/machine-learning/)
